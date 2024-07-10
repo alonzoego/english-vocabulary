@@ -2697,7 +2697,7 @@ INSERT INTO TOEFL (word,translate) VALUES ('constituent','n.选民,成分a组成
 INSERT INTO TOEFL (word,translate) VALUES ('sketch','n.略图v素描；概述');
 INSERT INTO TOEFL (word,translate) VALUES ('embryo','n.胚胎');
 INSERT INTO TOEFL (word,translate) VALUES ('magnify','v.放大,扩大');
-INSERT INTO TOEFL (word,translate) VALUES ('allende','n.阿连德(在墨西哥,西经100o01'北纬25o20')');
+INSERT INTO TOEFL (word,translate) VALUES ('allende','n.阿连德(在墨西哥,西经100o01北纬25o20)');
 INSERT INTO TOEFL (word,translate) VALUES ('metropolitan','adj.大城市的，大都会的');
 INSERT INTO TOEFL (word,translate) VALUES ('notably','adv.显著地；著名地');
 INSERT INTO TOEFL (word,translate) VALUES ('loan','n.贷款v.借出，贷给');
